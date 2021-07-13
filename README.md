@@ -21,11 +21,11 @@ I'm Sai Rithwik M, an undergraduate at [IIIT Bangalore, India](https://iiitb.ac.
 📬
  Get in Touch
  
-- Site: [rithwiksai.tech](rithwiksai.tech)
-- LinkedIn: [https://www.linkedin.com/in/sai-rithwik-m/](linkedin.com/in/sai-rithwik-m)
-- Twitter: [twitter.com/DaKeiser](twitter.com/DaKeiser)
-- GitHub: [github.com/DaKeiser](github.com/DaKeiser)
-- E-mail: sai.rithwik@iiitb.ac.in
+- Site: [rithwiksai.tech](https://rithwiksai.tech)
+- LinkedIn: [linkedin.com/in/sai-rithwik-m](https://www.linkedin.com/in/sai-rithwik-m)
+- Twitter: [twitter.com/DaKeiser](https://www.twitter.com/DaKeiser)
+- GitHub: [github.com/DaKeiser](https://www.github.com/DaKeiser)
+- E-mail: sai [dot] middle_name [at] iiitb.ac.in
   
 
 <details>
