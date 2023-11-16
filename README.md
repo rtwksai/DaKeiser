@@ -21,7 +21,7 @@ I'm Sai Rithwik M, an undergraduate at [IIIT Bangalore, India](https://iiitb.ac.
 📬
  Get in Touch
  
-- Site: [rithwiksai.tech](https://rithwiksai.tech)
+- Site: [rithwiksai.tech](https://rithwiksai.vercel.app)
 - LinkedIn: [linkedin.com/in/sai-rithwik-m](https://www.linkedin.com/in/sai-rithwik-m)
 - Twitter: [twitter.com/DaKeiser](https://www.twitter.com/DaKeiser)
 - GitHub: [github.com/DaKeiser](https://www.github.com/DaKeiser)
